@@ -1,7 +1,7 @@
 # Assignment_2
 # My Cute Project
 ## Description :- I have alot of cute things as pinterest.
-## Preview :- HTML CSS used.
+## Preview :- HTML CSS used
 <!DOCTYPE html>
 <html lang="en">
 <head>
